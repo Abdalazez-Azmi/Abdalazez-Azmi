@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="https://scontent.famm9-1.fna.fbcdn.net/v/t1.6435-9/241042643_1010160029780057_2383919551627374373_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeHu03ao7n-9BjWmkvnjGw8aH0xrrpXy_JMfTGuulfL8kz5FD-h82naE3sw1QNJH1ZRItEGUt_KGZDUglyDyUQI7&_nc_ohc=p9vYPrKVbTYAX-JsIId&_nc_ht=scontent.famm9-1.fna&oh=1f6085824de436d1a9c5713d98c343ba&oe=6166AF68">
+<h1 style="text-algin: center; font-family: Slabo 27px, serif">
+  Hi, I’m Abdalazez_Azmi
+</h1>
+<p style="color: brown">
+  I'm Studied Oracle SQL,PL/SQL,FORMS,REPORTS,Problem Solving,ERD System Documintation,HTML5
+</p>
+<p>I’m interested in Oracle Application Express,Oracle Adf</p>
+    <p>Expert use Windows and Fedora linux</p>
+<p>I’m currently learning Oracle Forms and Reports</p>
+I’m looking to learn more.. <br>
+For Contact : <br>
+Phone Number : +(962) 79-7819-843 <br>
+Mail : abdalazez.azmi@gmail.com <br>
+Location : Amman,Jordan
+    
+</body>
+</html>
