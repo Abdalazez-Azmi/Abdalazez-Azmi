@@ -11,7 +11,7 @@
   Hi, I’m Abdalazez_Azmi
 </h1>
 <p>
-  I'm Studied Oracle SQL,PL/SQL,Problem Solving,ERD System Documintation,HTML5,CSS3,JS,Bootstrap,JQuery,Dom,Node js,React JS,React Hooks,Swift,Git,Linux Commands
+  I'm Studied Oracle SQL,PL/SQL,Problem Solving,ERD System Documintation,HTML5,CSS3,JS,Bootstrap,JQuery,Dom,React JS,C#,Git,Linux Commands
 </p>
 <p>I’m interested in Oracle Application Express,Oracle Adf</p>
     <p>Expert use Windows and use Fedora linux</p>
